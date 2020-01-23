@@ -2,7 +2,7 @@
 layout: default
 img: rice.JPG
 category: Education
-title: Bachelor's in Biological Sciences
+title: Bachelor's in Electronics Engineering
 description: |
 ---
 
