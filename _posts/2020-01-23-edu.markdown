@@ -1,0 +1,14 @@
+---
+layout: default
+img: rice.JPG
+category: Education
+title: Bachelor's in Electronics Engineering
+description: |
+---
+
+* __2020 - 2025__
+* University of California, Riverside
+* Advisor: Dr. Marcos Antonio Bacarin
+* Scholarship from: FAPERGS and CNPq
+
+
