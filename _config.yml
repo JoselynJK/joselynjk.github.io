@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
+url: http://www.joselynjk.github.io
+title: Joselyn Koonamparampath
+email: joselyn.josephk@gmail.com
+author: Joselyn Koonamparampath
 description: "Daniela's Personal Page"
 
 # ----------------------- #
@@ -26,16 +26,16 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://github.com/dcassol  
+    url: https://github.com/Joselyn_JK  
   - icon: envelope-o
     title: email
-    url: mailto:danicassol@gmail.com
+    url: mailto:joselyn.josephk@gmail.com
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/dcassol/
   - icon: file-pdf-o
     title: CV
-    url: img/CassolDanielaCV.pdf
+    url: img/CassolDanielaCV.pdf #add your cv here
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
