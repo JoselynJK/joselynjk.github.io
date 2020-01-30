@@ -2,13 +2,13 @@
 layout: default
 img: Master.JPG
 category: Education
-title: Master's in Plant Physiology
+title: Master's in Electrical Engineering (Specialization in Control Systems)
 description: |
 ---
 
-* __2010 - 2012__
-* Federal University of Viçosa, Viçosa, Brazil
+* __2017 - 2019__
+* Veermata Jijabai Technological Institute, India
 * Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
-* Advisor: Dr. José Cambraia
-* Scholarship from: CNPq
+* Advisor: Dr. Navdeep Singh
+* Scholarship from: AICTE GATE/GPAT PG scholarship
 
