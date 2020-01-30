@@ -7,8 +7,5 @@ description: |
 ---
 
 * __2012 - 2016__
-* K. J. Somaiya College of Engineering
-* Advisor: Dr. Marcos Antonio Bacarin
-* Scholarship from: FAPERGS and CNPq
-
-
+* K. J. Somaiya College of Engineering, India
+* Advisor: Prof. Sandeep Hanumante
