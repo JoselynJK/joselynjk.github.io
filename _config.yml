@@ -6,7 +6,7 @@ url: http://www.joselynjk.github.io
 title: Joselyn Koonamparampath
 email: joselyn.josephk@gmail.com
 author: Joselyn Koonamparampath
-description: "Daniela's Personal Page"
+description: "Joselyn's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -32,14 +32,14 @@ social:
     url: mailto:joselyn.josephk@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
-  - icon: file-pdf-o
-    title: CV
-    url: img/CassolDanielaCV.pdf #add your cv here
+    url: https://www.linkedin.com/in/joselyn-koonamparampath-453638a0/
+#  - icon: file-pdf-o
+#    title: CV
+#    url: img/CassolDanielaCV.pdf #add your cv here
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/danicassol
+#  - icon: twitter
+#    title: twitter
+#    url: https://twitter.com/danicassol
 
